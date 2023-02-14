@@ -8,4 +8,4 @@ echo "The second random number generated is $num2"
 echo "The first square root is $sqrt1"
 echo "The second square root is $sqrt2"
 sum=$(($sqrt1 + $sqrt2))
-echo "The sum of their square roots is $sum"
+echo "The sum of their square roos is $sum"
