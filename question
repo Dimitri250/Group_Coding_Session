@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Please enter a phrase: "
+read phrase
+word_count=$(echo $phrase)
+space_count=$(echo $phrase )
+echo "The number of words is $word_count"
+echo "The number of white spaces is $space_count"
